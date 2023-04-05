@@ -1,0 +1,8 @@
+labels:
+  env: dev
+  team: data
+spec:
+  env:
+  ingress:
+    host:
+    type: alb
